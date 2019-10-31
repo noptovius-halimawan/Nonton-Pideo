@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NontonPideo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="movie">Movie</string>
+    <string name="series">TV Shows</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="title">title</string>
+    <string name="year">year</string>
+    <string name="lorem">lorem</string>
+    <string name="view_details">View Details</string>
+    <string name="poster">Poster</string>
+    <string name="overview">Overview</string>
+    <string name="rating">Rating</string>
+    <string name="change_language_settings">Change Language</string>
+    <string name="score">Score: </string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="search">Search</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">No Data</string>
+    <string name="appwidget_text">Favorites</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="reminders">Reminders</string>
+    <string name="widgetimage">widgetImage</string>
+</resources>

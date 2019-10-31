@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NontonPideo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="movie">Film</string>
+    <string name="series">Seri Televisi</string>
+    <string name="movie_poster">Poster Film</string>
+    <string name="title">Judul</string>
+    <string name="year">Tahun</string>
+    <string name="lorem">lorem</string>
+    <string name="view_details">Lihat Detil</string>
+    <string name="poster">Poster</string>
+    <string name="overview">Sinopsis</string>
+    <string name="rating">Penilaian</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="score">Penilaian: </string>
+    <string name="home">Beranda</string>
+    <string name="favorites">Favorit</string>
+    <string name="search">Cari</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="empty_text">Tidak ada Data</string>
+    <string name="appwidget_text">Favorit</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="reminders">Pengingat</string>
+    <string name="widgetimage">gambarWidget</string>
+</resources>
